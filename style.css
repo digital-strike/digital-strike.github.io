@@ -1,7 +1,7 @@
-@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@600&family=Open+Sans&family=Roboto+Condensed:wght@700&family=Source+Sans+Pro&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@600&family=Open+Sans&family=Roboto+Condensed:wght@700&family=Source+Sans+Pro&family=Yatra+One&display=swap");
 .heading {
-  font-family: "Inconsolata", monospace;
   font-size: 50px;
+  font-family: "Yatra One", cursive;
 }
 
 .sub-heading {
@@ -71,4 +71,11 @@
   color: #313233;
   text-decoration: none;
   font-weight: normal;
+}
+
+.footer-text p {
+  font-family: "Roboto Condensed", sans-serif;
+  letter-spacing: 3px;
+  font-size: 20px;
+  text-transform: uppercase;
 }
