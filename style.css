@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@600&family=Roboto+Condensed:wght@700&display=swap");
+.heading {
+    font-family: "Inconsolata", monospace;
+    font-size: 50px;
+}
+
+.sub-heading {
+    text-transform: uppercase;
+    font-family: "Roboto Condensed", sans-serif;
+    letter-spacing: 5px;
+}
+
+.main-card {
+    border-radius: 10px;
+}
+
+.card-heading {
+    margin-left: 10px;
+    color: #313233;
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 25px;
+    letter-spacing: 2px;
+}
+
+.action-card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0px 10px 19px 5px rgba(163, 163, 163, 0.75);
+    -webkit-box-shadow: 0px 10px 19px 5px rgba(163, 163, 163, 0.75);
+    -moz-box-shadow: 0px 10px 19px 5px rgba(163, 163, 163, 0.75);
+}
