@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@600&family=Roboto+Condensed:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@600&family=Open+Sans&family=Roboto+Condensed:wght@700&family=Source+Sans+Pro&display=swap");
 .heading {
   font-family: "Inconsolata", monospace;
   font-size: 50px;
@@ -54,12 +54,19 @@
   font-size: 25px;
 }
 
+.app-description {
+  font-size: 13px;
+  font-family: "Open Sans", sans-serif;
+
+  font-weight: lighter;
+}
+
 .app-links .app-download-link {
   text-decoration: none;
 }
 
 .app-download-link span {
-  font-family: "Roboto Condensed", sans-serif;
+  font-family: "Source Sans Pro", sans-serif;
   font-size: 15px;
   color: #313233;
   text-decoration: none;
