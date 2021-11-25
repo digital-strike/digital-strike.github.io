@@ -39,3 +39,17 @@
   color: #313233;
   font-size: 20px;
 }
+
+.action-card .number-div {
+  width: 50px;
+  height: 50px;
+  background: #febd59;
+  display: flex;
+  font-family: "Roboto Condensed", sans-serif;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  color: #3132339a;
+  font-weight: 500;
+  font-size: 25px;
+}
